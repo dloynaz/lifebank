@@ -2,7 +2,6 @@ import React from 'react'
 import { makeStyles } from '@material-ui/styles'
 import Box from '@material-ui/core/Box'
 import Typography from '@material-ui/core/Typography'
-import CardMedia from '@material-ui/core/CardMedia';
 
 import VideoSection from '../../components/VideoSection'
 
